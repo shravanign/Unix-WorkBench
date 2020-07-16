@@ -17,5 +17,3 @@ do
    read -p "Guess how many files are there in current repository? " guess
    echo $(check  $guess $count)
 done
-
-
