@@ -1,5 +1,3 @@
-all: README.md
-
 README.md:
 	echo "## guessinggame.sh for Coursera's The Unix Workbench course\n" > README.md
 	echo -n "README.md created: " >> README.md
